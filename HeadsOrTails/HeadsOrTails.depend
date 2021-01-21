@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611254889 source:c:\users\evgeny\onedrive\personal\blockchain & crypto\project 1\heads or tails c++\headsortails\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
